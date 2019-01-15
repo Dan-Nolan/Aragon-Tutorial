@@ -1,0 +1,14 @@
+{
+  "id": "5bcdf0c31cf372e860c8b8c4",
+  "title": "Aragon Voting",
+  "description": "Create your own Aragon Voting application using both the Aragon OS smart contracts and the Aragon JS front-end! ",
+  "badgeTypeIds": [
+    "5b6a8465e6b0b02198e52281"
+  ],
+  "updatedAt": "2018-10-22T15:46:11.621Z",
+  "createdAt": "2018-10-22T15:46:11.621Z",
+  "containerType": "BuildingBlock",
+  "productionReady": true,
+  "thumbnailUrl": "https://res.cloudinary.com/divzjiip8/image/upload/v1540326719/grvy5cawi3qwjrlm2kxe.png",
+  "estimatedTime": 360
+}

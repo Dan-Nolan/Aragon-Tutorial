@@ -1,0 +1,15 @@
+{
+  "id": "5b58fc40d9f997399b71e3fd",
+  "type": "BuildingBlock",
+  "badgeTypeIds": [
+    "5b6a8465e6b0b02198e52281"
+  ],
+  "estimatedTime": 360,
+  "intro": "$$LOOKUP",
+  "productionReady": true,
+  "title": "Voting",
+  "updatedAt": "2018-10-23T20:32:02.166Z",
+  "createdAt": "2018-10-16T01:50:10.053Z",
+  "stageContainerGroupId": "5bcdf0c31cf372e860c8b8c4",
+  "version": "Solidity v0.4.19"
+}
